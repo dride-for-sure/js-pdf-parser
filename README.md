@@ -1,4 +1,4 @@
-# jspdfpreflight
+# JavaScript PDF Parser
 
 Parse pdfs with hugh file sizes in chunks, analyze for specific metadata and store them.
 
